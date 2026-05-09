@@ -1,0 +1,9 @@
+﻿Requirements
+
+
+pandas
+numpy
+rdkit
+scikit-learn
+matplotlib
+chembl_webresource_client
