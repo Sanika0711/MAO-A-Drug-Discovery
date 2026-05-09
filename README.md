@@ -172,6 +172,19 @@ MAO-A-Drug-Discovery/
 3. AutoDock Vina  
 4. Protein Data Bank (PDB ID: 2Z5X)
 
+
+
+**Docking Visualisation-**
+
+1. Ligand 4
+![Ligand 4 Docking Pose](Images/ligand4docking.png)
+
+2. Ligand 5
+![Ligand 5 Docking Pose](Images/ligand5docking.png)
+
+3. Ligand 7
+![Ligand 7 Docking Pose](Images/ligand7docking.png)
+
  
 
 Developed as part of a computational drug discovery portfolio for PhD applications.
